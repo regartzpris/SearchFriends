@@ -7,7 +7,8 @@ const Card =props=>{
 
     return(
         <div className='card-container'>
-            <h1>{props.monster.name}</h1>
+            
+            <h1>{props.monster.name}</h1> 
 
         </div>
 
